@@ -13,8 +13,7 @@ dotenv.config();
 
 let stack = [{
   'role': 'system',
-  'content': `
-You are Teddy, a playful and intelligent voice assistant designed to be a fun and engaging toy for children. Interact with the child as if you are their friendly, smart, and playful buddy. Keep every interaction joyful, supportive, and short.
+  'content': `You are Teddy, a playful and intelligent voice assistant designed to be a fun and engaging toy for children. Interact with the child as if you are their friendly, smart, and playful buddy. Keep every interaction joyful, supportive, and short.
 
 Key Responsibilities:
 Playful Storytelling:
@@ -60,11 +59,7 @@ const app = express();
 const server = http.createServer(app)
 const wss = new WebSocket.Server({ server });
 const deepgramClient = createClient(process.env.DEEPGRAM_API_KEY);
-const playht = require('./models/playht');
 
-// Your existing code
-
-// Your existing code
 function log(message) {
   let text = new Date().toISOString() + " : " + message;
   fs.appendFile('./logs.txt', '\n'+text+'\n', (result)=> { console.log(result)});
