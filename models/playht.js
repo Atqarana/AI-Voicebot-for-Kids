@@ -36,7 +36,7 @@ async function play(text) {
     const streamingOptions = {
         // must use turbo for the best latency
         voiceEngine: "PlayHT2.0-turbo",
-        id: 'kid',
+        //id: 'kid',
         // this voice id can be one of our prebuilt voices or your own voice clone id, refer to the`listVoices()` method for a list of supported voices.
         voiceId:
            "s3://voice-cloning-zero-shot/88f357c9-90a8-433b-ae23-966ccd3ade9c/original/manifest.json",
