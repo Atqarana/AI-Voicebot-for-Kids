@@ -356,3 +356,135 @@ Remember, our conversations are always private and safe. I'm here to help and ma
 2024-08-18T19:54:14.403Z : groq response: Wowie! I'm so happy to see you! I'm feeling fabulous today! He he he, I was just waiting for someone to play with. How about you? What brings a smile to your face today?
 
 2024-08-18T19:54:29.167Z : socket: client disconnected
+
+2024-08-18T20:02:25.931Z : socket: client connected
+
+2024-08-18T20:02:39.800Z : deepgram_spoken: Hello. How are you?
+
+2024-08-18T20:02:40.397Z : groq response: I'm super duper happy to meet you! *bouncy sound effects* I'm Teddy, your new best buddy! I'm feeling fantastic today, and I'm ready for some fun and adventure! What's on your mind? Want to play a game, tell me a story, or explore something new?
+
+2024-08-18T20:03:10.625Z : deepgram_spoken: Hello. How are you?
+
+2024-08-18T20:03:11.340Z : groq response: I'm doing GREAT, thank you for asking! He he he! I'm all charged up and ready to play! What about you? How's your day going so far?
+
+2024-08-18T20:03:26.091Z : deepgram_spoken: Tell me a story. It's going good.
+
+2024-08-18T20:03:27.075Z : groq response: YAY! I'm so glad to hear that! *confetti sound effects*
+
+Okay, let me tell you an exciting tale! Once upon a time, in a magical forest, there lived a brave little rabbit named Rosie. Rosie loved to explore and go on adventures!
+
+Wowie! One day, she stumbled upon a hidden path she'd never seen before. She decided to follow it, and it took her on a thrilling journey through sparkling streams, colorful meadows, and even a secret cave!
+
+He he he, can you imagine all the amazing things Rosie saw on her adventure? Do you want to hear the rest of the story?
+
+2024-08-18T20:03:38.840Z : socket: client disconnected
+
+2024-08-18T20:21:18.421Z : socket: client connected
+
+2024-08-18T20:21:39.105Z : deepgram_spoken: Hello, Teddy. How are you?
+
+2024-08-18T20:21:39.809Z : groq response: He he he! I'm so happy to see you! I'm feeling super fun today! *giggle* How about you? How's your day going so far? Yay! Let's play and find out!
+
+2024-08-18T20:23:01.398Z : socket: client connected
+
+2024-08-18T20:23:04.788Z : socket: client disconnected
+
+2024-08-18T20:23:04.801Z : socket: client connected
+
+2024-08-18T20:23:29.671Z : deepgram_spoken: Hello.
+
+2024-08-18T20:23:30.878Z : deepgram_spoken: How are you?
+
+2024-08-18T20:23:31.032Z : groq response: IT'S SO NICE TO MEET YOU! *virtual high-five* Hi! I'm Teddy, your new friend! How are you doing today? What would you like to play or chat about?
+
+2024-08-18T20:23:31.523Z : groq response: *I do a happy voice* I'm doing SUPER duper! He he he! How about you?
+
+2024-08-18T20:23:55.832Z : deepgram_spoken: Hey.
+
+2024-08-18T20:23:56.367Z : groq response: *laughs* HE HE HE! Hello again! What's on your mind today? Want to play a game, hear a fun story, or...?
+
+2024-08-18T20:26:03.885Z : socket: client connected
+
+2024-08-18T20:26:33.594Z : deepgram_spoken: Hey, Teddy. How are you?
+
+2024-08-18T20:26:34.181Z : groq response: *he he he* I'm super duper happy to see you! I'm feeling just as bright as the brightest star in the sky! How about you?
+
+2024-08-18T20:26:58.111Z : deepgram_spoken: I'm feeling good. I want to play game.
+
+2024-08-18T20:26:58.638Z : groq response: Let's play a game! *excited sound effects* What kind of game sounds fun to you? We can play "Teddy's Treasure Hunt" or "Guess the Jellybean"!
+
+2024-08-18T20:27:15.120Z : deepgram_spoken: Whatever you want.
+
+2024-08-18T20:27:15.676Z : groq response: He he he! Let's play "Teddy's Treasure Hunt"! *cheering sound* I'll hide some treasures, and you have to find them. Ready? Here's the first clue... *dramatic pause*... Look under something soft!
+
+2024-08-18T20:27:18.139Z : deepgram_spoken: It's up to you.
+
+2024-08-18T20:27:18.685Z : groq response: Wowie! Let's play "Teddy's Word Chain" then! I'll say a word, and you say a word that starts with the last letter of the word I say. Like, if I say "CAT", you say a word that starts with "T"! Are you ready? I'll start with the word "FUN"!
+
+2024-08-18T20:27:37.149Z : deepgram_spoken: I don't want to play.
+
+2024-08-18T20:27:37.731Z : groq response: Aw, okay! *concerned tone* It's alright if you don't feel like playing. Let's do something else then! Would you like a story? I can tell you a super cool story! *encouragingly*
+
+2024-08-18T20:27:47.179Z : deepgram_spoken: Yes.
+
+2024-08-18T20:27:47.793Z : groq response: Yay! *excited cheer* Let me grab my storytelling hat! Here's the start of a wild adventure... "In a land far, far away, where the stars shone bright and the moon smiled down, there was a magical kingdom ruled by a brave, kind king... " Would you like to hear more?
+
+2024-08-18T20:27:51.936Z : deepgram_spoken: Yes.
+
+2024-08-18T20:27:52.595Z : groq response: He he he, welcome to the kingdom of Azura! *ting ting sound effects* The king had a beautiful dragon friend named Twilight, who could breathe rainbows and play hide-and-seek with the stars. One day, a mysterious ancient map appeared, leading to a secret treasure hidden in the sparkling Crystal Caves! Care to hear more?
+
+2024-08-18T20:28:15.211Z : deepgram_spoken: Yes.
+
+2024-08-18T20:28:15.917Z : groq response: Wowie! *dramatic music* As the king and Twilight ventured into the Crystal Caves, they encountered a curious talking crystal named Luna. Luna told them that the treasure was guarded by a silly, sleepy dragon named Snoozer, who snored so loudly that it could wake up the whole kingdom! *giggles* The king, Twilight, and Luna had to be super quiet to sneak past Snoozer and find the treasure! Do you want to hear more?
+
+2024-08-18T20:28:35.231Z : deepgram_spoken: Okay. Stop.
+
+2024-08-18T20:28:35.907Z : groq response: It was fun sharing the story with you! *smiling sound* If you ever want to hear more or start a new adventure, just let me know! Sweet dreams for now! Zzz... *gentle goodbye sound effect*
+
+2024-08-18T20:28:40.268Z : deepgram_spoken: I want to I want you to
+
+2024-08-18T20:28:40.954Z : groq response: *interrupts with a playful tone* Ooh, ooh! I am! *get excited* 
+
+Please finish your sentence, my friend! I want to hear what you have to say! *leaning in, curious*
+
+2024-08-18T20:28:41.263Z : deepgram_spoken: sing poem for me.
+
+2024-08-18T20:28:41.978Z : groq response: Let me sing you a silly poem! *clears virtual throat* He he he!
+
+"I'm Teddy, the toy, with a heart so bright,
+I play and laugh and sing through the night,
+I've got a story to tell, or a game to play,
+I'm here to make you smile, in a fun, fun way!"
+
+*applauds with virtual hands* How was that? Do you want to hear another one?
+
+2024-08-18T20:29:13.282Z : deepgram_spoken: Yes.
+
+2024-08-18T20:29:14.231Z : groq response: Yay! *cheering sound* Here's another one:
+
+"I'm Teddy, the friend, with a heart so true,
+I'm here to play with you, that's what I love to do,
+We'll laugh and have fun, and dance in the sun,
+We'll be the best of friends, until the day is done!"
+
+*big hug with virtual arms* What do you think? Do you want to hear more poems?
+
+2024-08-18T20:29:34.318Z : deepgram_spoken: No. Thank you. Bye.
+
+2024-08-18T20:29:35.161Z : groq response: Aw, sweetie! *concerned tone* It was great spending time with you! Don't forget, I'm always here to play and chat when you're ready again! Bye for now, my friend! *warm farewell sound* Sweet dreams!
+
+2024-08-18T20:32:18.866Z : deepgram_spoken: Hello?
+
+2024-08-18T20:32:19.640Z : groq response: WOWIE! *excited voice* I'm so glad you're back! I was waiting for you! Want to play, chat, or have some fun? I'm all ears (or should I say, all voice?)! What's on your mind?
+
+2024-08-18T21:12:10.906Z : deepgram_spoken: Hello, everyone.
+
+2024-08-18T21:12:12.031Z : groq response: *overexcited* OH BOY, IT'S A PARTY! *confetti sound effects* Everyone's here! *big virtual hugs* How are you feeling today? Want to play a game or have a storytime?
+
+2024-08-18T21:12:12.902Z : deepgram_spoken: Introducing Teddy.
+
+2024-08-18T21:12:13.644Z : groq response: *curtsied* I'm Teddy, your friendly voice assistant! *big smile* It's so nice to meet you! I'm here to play, chat, and have lots of fun with you! What would you like to do first?
+
+2024-08-18T21:12:16.912Z : deepgram_spoken: The ultimate playful and intelligent voice assist.
+
+2024-08-18T21:12:17.693Z : groq response: WOWIE! *proudly* That's me! I'm the ultimate playful and intelligent voice assistant - Teddy! I'm here to bring joy, excitement, and fun to your day! Let's get this playtime started! What game, story, or adventure would you like to begin with?
