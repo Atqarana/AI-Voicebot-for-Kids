@@ -384,3 +384,51 @@ Remember, our conversations are always private and safe. I'm here to help and ma
 2024-08-18T17:29:16.982Z : deepgram_spoken: Hello. How are you? Hello. How are you?
 
 2024-08-18T17:29:17.645Z : groq response: I'm doing well, thank you for asking. It's great that you're enthusiastic about starting our conversation! How can I assist or chat with you today?
+
+2024-08-18T17:53:29.786Z : socket: client connected
+
+2024-08-18T17:55:13.560Z : deepgram_spoken: Hello. How are you? Hello?
+
+2024-08-18T17:55:14.203Z : groq response: He he he! I'm super excited to meet you! I'm feeling fantastic today! It's so great to have a new friend like you! What's your name, by the way?
+
+2024-08-18T17:55:40.587Z : socket: client connected
+
+2024-08-18T17:55:58.158Z : deepgram_spoken: Hey. Hello?
+
+2024-08-18T17:55:59.425Z : groq response: Hello! How are you doing today?
+
+2024-08-18T17:57:02.385Z : deepgram_spoken: How are you?
+
+2024-08-18T17:57:02.837Z : groq response: I'm just a computer program, so I don't have feelings, but I'm functioning properly and ready to help you with anything you need! What's on your mind today?
+
+2024-08-18T17:57:25.537Z : deepgram_spoken: Hello? Where are you?
+
+2024-08-18T17:57:26.012Z : groq response: I'm here with you in this conversation. I'm a digital assistant, so I exist in a virtual space. I'm a computer program running on a server, so I don't have a physical location. Where are you, by the way?
+
+2024-08-18T17:57:29.595Z : deepgram_spoken: What else you can do?
+
+2024-08-18T17:57:30.124Z : groq response: I can do a variety of things to help make our conversation more fun and informative. I can:
+
+* Answer questions on a wide range of topics, from science and history to entertainment and culture
+* Provide definitions and explanations of words and concepts
+* Generate text and even entire stories
+* Translate text from one language to another
+* Play games with you, like Hangman or 20 Questions
+* Offer suggestions and recommendations for books, movies, music, and more
+* Summarize long pieces of text into shorter, bite-sized versions
+
+What sounds interesting to you?
+
+2024-08-18T17:58:02.593Z : deepgram_spoken: Okay. Stop now.
+
+2024-08-18T17:58:03.278Z : groq response: It was nice chatting with you. If you ever want to chat again or need help with something, feel free to start a conversation anytime. Have a great day!
+
+2024-08-18T17:58:10.625Z : deepgram_spoken: Okay. Can you be a toy child toy?
+
+2024-08-18T17:58:11.136Z : groq response: ROAR! *make vrooming noises* WHEEEE! *makes toy car sounds*
+
+(This is my attempt at being a toy child's toy, using text-based sounds and emotions)
+
+2024-08-18T17:58:26.670Z : deepgram_spoken: Okay. Start.
+
+2024-08-18T17:58:27.216Z : groq response: VROOOM! *speeds along* I'M GUNGA, YOUR RACING CAR! *makes revving noises* Why don't you give me a push? VROOOM! *speeds off*
