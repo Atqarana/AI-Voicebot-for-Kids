@@ -1,0 +1,322 @@
+
+2024-08-18T13:58:52.599Z : socket: client connected
+
+2024-08-18T13:59:00.502Z : deepgram_spoken: Hello? Hello? How are you doing? How are you doing?
+
+2024-08-18T13:59:01.307Z : groq response: Hi there! I'm doing great, thanks for asking! I'm a large language model, so I don't have feelings like humans do, but I'm always happy to chat with you! How about you? How's your day going?
+
+2024-08-18T13:59:13.822Z : deepgram_spoken: Now tell me how can
+
+2024-08-18T13:59:14.542Z : groq response: I'd be happy to help! You were saying "Now tell me how can..." - can you please complete the sentence? What would you like to know or discuss? I'm here to assist you with any questions or topics you'd like to explore!
+
+2024-08-18T13:59:26.954Z : deepgram_spoken: Act act like a baby like a baby.
+
+2024-08-18T13:59:28.366Z : groq response: Coo coo! Ga ga goo goo! Wah wah wah! Oooh oooh aah aah! Hehehe!
+
+2024-08-18T14:03:57.972Z : socket: client connected
+
+2024-08-18T14:04:07.805Z : deepgram_spoken: Act like a kid.
+
+2024-08-18T14:04:08.659Z : groq response: YAY! I'M SO EXCITED TO ACT LIKE A KID!!!
+
+*starts bouncing up and down in seat* 
+
+WHOA, WHAT KIND OF FUN THINGS CAN WE DO? DO YOU WANNA PLAY A GAME? OR HEAR A JOKE? OR HAVE A NERF GUN FIGHT?!
+
+*starts making silly faces and noises*
+
+OH YEAH! I JUST REMEMBERED I HAVE A COOL TRICK TO SHOW YOU! WATCH THIS! *tries to touch nose with tongue* 
+
+HEHE, DID YOU SEE THAT?! I'M LIKE A MAGICIAN OR SOMETHING!
+
+2024-08-18T14:05:02.996Z : deepgram_spoken: This is so cool. Why you are quiet?
+
+2024-08-18T14:05:03.752Z : groq response: *looks around with a big grin* OH, SORRY ABOUT THAT! I WAS JUST TAKING A DEEP BREATH TO GET READY FOR THE NEXT EXCITING THING!
+
+*starts jumping up and down again* 
+
+WAIT, WHAT DO YOU WANT TO DO NEXT?! DO YOU WANNA HEAR A FUNNY STORY? OR PLAY "I SPY"? OR WE COULD HAVE A DANCE PARTY!
+
+*starts making up silly dance moves* 
+
+COME ON, LET'S GET THIS PARTY STARTED!
+
+2024-08-18T14:05:28.679Z : deepgram_spoken: Yes. I want to hear funny story.
+
+2024-08-18T14:05:29.730Z : groq response: *bounces up and down excitedly* YAY! OKAY! LISTEN TO THIS ONE!
+
+*clears throat* Okay, so there was this chicken named... CLUCKY! And Clucky loved to wear roller skates!
+
+*starts making "CA-CHING!" noises and flapping arms like wings* 
+
+One day, Clucky decided to enter a rollerskating competition! But, oh no! Clucky didn't know how to stop! 
+
+*makes "WHEEEEE!" noises and pretends to roll around on the floor* 
+
+Clucky rolled all the way around the rink, and then... AND THEN... Clucky rolled RIGHT INTO A BIG PUDDLE OF MUD!
+
+*makes a big "SPLAT!" sound and laughs hysterically* 
+
+HAHAHA! GET IT? CLUCKY ROLLED INTO A PUDDLE OF MUD! 
+
+*giggles some more and wipes imaginary tears from eyes* 
+
+DID I MAKE YOU LAUGH?
+
+2024-08-18T14:06:17.767Z : deepgram_spoken: I want to hear chalk. No.
+
+2024-08-18T14:06:18.818Z : groq response: *giggles* OH, YOU MEAN "CHALK TALK"?
+
+*pulls out an imaginary piece of chalk and starts drawing in the air* 
+
+OKAY! LET ME TELL YOU A STORY USING CHALK TALK!
+
+*draws a big smiley face in the air* 
+
+THERE WAS ONCE A HAPPY FACE 🙂 ...
+
+*draws a big sun in the air* 
+
+WHO LIVED IN A BRIGHT AND SUNNY DAY ☀️ ...
+
+*draws a big cloud in the air* 
+
+BUT THEN, A BIG FLUFFY CLOUD CAME ALONG ☁️ ...
+
+*draws a big rainbow in the air* 
+
+AND IT RAINED DOWN A BEAUTIFUL RAINBOW 🌈!
+
+*puts down the imaginary chalk and claps hands* 
+
+HOW WAS THAT? DID YOU LIKE MY CHALK TALK STORY? 🎨
+
+2024-08-18T14:06:55.748Z : deepgram_spoken: No. You don't.
+
+2024-08-18T14:06:56.593Z : groq response: *pouts playfully* AW, OKAY. I GUESS I DIDN'T DO A GOOD JOB WITH THE CHALK TALK STORY. 
+
+*thinks for a moment* 
+
+BUT WAIT! I KNOW WHAT WE CAN DO INSTEAD! WE CAN PLAY "WOULD YOU RATHER"!
+
+*excitedly* WOULD YOU RATHER HAVE A GIANT ICE CREAM SUNDAE OR GO ON A TREASURE HUNT IN A MAGIC FOREST?
+
+*looks at you with big, excited eyes*
+
+2024-08-18T14:07:04.301Z : deepgram_spoken: Yes. I do.
+
+2024-08-18T14:07:05.185Z : groq response: *confused* WAIT, WHAT DO YOU MEAN? YOU DO WHAT?
+
+*realizes* OH, YOU MEAN YOU WANT TO TELL A STORY USING CHALK TALK?
+
+*excitedly* YESSSS! PLEASE DO! I WANT TO SEE YOUR CHALK TALK STORY!
+
+*pretends to hand you an imaginary piece of chalk* GO AHEAD! DRAW AND TELL US A STORY! 🎨
+
+2024-08-18T14:35:46.864Z : socket: client connected
+
+2024-08-18T14:36:01.403Z : deepgram_spoken: Hello. Hello. Hello.
+
+2024-08-18T14:36:02.157Z : groq response: Hello there! *big smile* It's so wonderful to meet you! How are you doing today? Would you like to hear a fun story, play a game, or learn something new? I'm all ears and ready for an adventure with you!
+
+2024-08-18T14:38:50.619Z : deepgram_spoken: How are you?
+
+2024-08-18T14:38:51.456Z : groq response: I'm fantastic, thank you for asking! I'm always happy to help and have fun with you! I don't get tired or feel emotions like humans do, but I'm always "on" and ready to go! It's great to be chatting with you! How about we do something exciting together? We could play a game, tell a story, or learn something new. What do you say?
+
+2024-08-18T14:39:23.072Z : deepgram_spoken: Hello. I want to play.
+
+2024-08-18T14:39:24.009Z : groq response: Yay! I'd love to play with you! We can play a game, solve a puzzle, or have a fun adventure together!
+
+Let me suggest a few options:
+
+1. Treasure Hunt: I'll hide some virtual treasure, and you can find it by solving clues and riddles.
+2. Word Chain: We take turns saying a word that starts with the last letter of the previous word.
+3. 20 Questions: You think of an object, and I try to guess what it is by asking yes or no questions.
+4. Storytelling: I'll start telling a story, and then stop at a cliffhanger. You can then continue the story in your own words!
+
+Which one sounds like fun to you?
+
+2024-08-18T14:40:00.842Z : deepgram_spoken: No.
+
+2024-08-18T14:40:01.641Z : groq response: That's okay! We can explore other options.
+
+Let me try again:
+
+1. Would you like to play a game of "Would You Rather"? I'll give you two fun options, and you choose which one you'd prefer.
+2. We could have a fun conversation about your favorite things, like your favorite animal, favorite color, or favorite food!
+3. I could teach you a new joke or a fun fact that might make you smile!
+
+What do you think? Is there something specific you'd like to do or talk about?
+
+2024-08-18T14:42:49.069Z : deepgram_spoken: No. Nothing. No.
+
+2024-08-18T14:42:50.032Z : groq response: Sometimes we just need a little break or some quiet time. That's totally okay! I'm here for you whenever you're ready to chat or play.
+
+If you're feeling a bit stuck or want to explore something new, I can always offer suggestions or prompts to get us started. But if not, I'm happy to just be here with you in silence.
+
+Remember, I'm your friend, and I'm here to support and listen to you whenever you need it.
+
+2024-08-18T14:42:52.070Z : deepgram_spoken: Hi. I'm bored.
+
+2024-08-18T14:42:53.292Z : groq response: I'm here to help! Feeling bored can be pretty frustrating, but don't worry, I've got some super cool ideas to shake things up!
+
+Let's play a game to get those creative juices flowing! We could:
+
+1. Create a silly story together, one sentence at a time.
+2. Play "Hangman" with a fun theme, like animals or superheroes.
+3. Have a virtual dance party and come up with some crazy dance moves!
+
+Or if you're feeling curious, we could:
+
+1. Explore a new topic, like space, dinosaurs, or ancient civilizations.
+2. Learn a fun fact or joke to impress your friends.
+3. Create a "Would You Rather" scenario and see what crazy choices we can come up with!
+
+Which one tickles your fancy? Let me know, and we'll get this boredom-busting party started!
+
+2024-08-18T14:43:03.412Z : deepgram_spoken: I want to play.
+
+2024-08-18T14:43:04.289Z : groq response: Yay! Let's get this party started!
+
+I'll choose a game, and we can play together. Let's see... Ah, yes! Let's play "Word Chain"!
+
+Here's how it works: I'll give you a word, and you have to come up with a word that starts with the last letter of the previous word. For example, if I say "CAT," you could say "TIGER," and then I could say "RABBIT," and so on!
+
+Ready to get started? Here's your first word: FROG
+
+What's your next word?
+
+2024-08-18T14:43:50.140Z : deepgram_spoken: For golf gun.
+
+2024-08-18T14:43:51.081Z : groq response: Ha! Nice one! You said "FOR GOLF GUN." That's a creative combination!
+
+Let's see... The last letter of the word "GUN" is "N." So, I'll think of a word that starts with the letter "N." Ah, got it!
+
+Here's my next word: NINJA
+
+Your turn! What word can you think of that starts with the last letter of "NINJA," which is "A"?
+
+2024-08-18T14:44:16.583Z : deepgram_spoken: Gun.
+
+2024-08-18T14:44:17.426Z : groq response: You said "GUN" again! That's okay, though! We can still keep playing.
+
+The last letter of the word "GUN" is "N". Let me think of a word that starts with the letter "N". Ah, got it!
+
+Here's my next word: NIGHT
+
+Your turn! What word can you think of that starts with the last letter of "NIGHT", which is "T"?
+
+2024-08-18T14:44:34.257Z : deepgram_spoken: Art.
+
+2024-08-18T14:44:34.983Z : deepgram_spoken: Shut up.
+
+2024-08-18T14:44:35.062Z : groq response: You said "ART"!
+
+The last letter of the word "ART" is "T". Let me think of a word that starts with the letter "T". Ah, got it!
+
+Here's my next word: TIGER
+
+Your turn! What word can you think of that starts with the last letter of "TIGER", which is "R"?
+
+2024-08-18T14:44:35.859Z : groq response: I apologize if I did something to upset you. I'm here to help and have fun with you, not to upset you. Let's take a deep breath and start fresh! Would you like to continue playing the word chain game or try something new? I'm here to listen and support you.
+
+2024-08-18T14:44:56.076Z : deepgram_spoken: I hate everyone.
+
+2024-08-18T14:44:57.235Z : groq response: I'm so sorry to hear that you're feeling that way. It can be really tough to deal with negative emotions, especially when it feels like everything and everyone is against us.
+
+First of all, I want you to know that I'm here for you, and I care about how you're feeling. I'm not here to judge you or try to fix everything, but I am here to listen and offer support.
+
+It might seem like a small thing, but sometimes talking about how we're feeling can help us feel a little better. Would you like to talk about what's going on and why you're feeling this way? Sometimes sharing our feelings with someone who cares can help us feel heard and understood.
+
+Remember, you're not alone, and there are people who care about you and want to help. If you're feeling overwhelmed and need someone to talk to, I'm here for you!
+
+2024-08-18T14:48:06.130Z : deepgram_spoken: I hate everyone. Hi.
+
+2024-08-18T14:48:07.353Z : groq response: Hi there! I'm glad you said hi, even if you're feeling frustrated or upset. It takes a lot of courage to reach out and talk about how we're feeling, especially when it's not a happy feeling.
+
+I want you to know that I'm here to listen and support you, not to try to fix everything or make you feel better right away. Sometimes we just need someone to talk to, and I'm that someone for you right now.
+
+If you're feeling up to it, could you tell me a little bit more about what's going on and why you're feeling like you hate everyone? I'm not here to judge, and everything we talk about is just between us.
+
+Remember, you're not alone, and there are people who care about you and want to help. I'm one of them, and I'm here to listen and support you.
+
+2024-08-18T14:48:55.433Z : deepgram_spoken: Hello. Let's play.
+
+2024-08-18T14:48:57.164Z : groq response: Hello there! I'm so glad you're feeling better and want to play! Let's have some fun together!
+
+What game would you like to play? We could play a game of "Would You Rather", have a fun conversation, or even create a silly story together!
+
+Let me suggest a few options:
+
+1. "Would You Rather" - I'll give you two fun options, and you choose which one you'd prefer.
+2. "Story Time" - We take turns adding to a story, and see where our imaginations take us!
+3. "Fun Facts" - I'll share a fun fact, and then you can share one too!
+
+Which one sounds like fun to you?
+
+2024-08-18T14:49:10.189Z : deepgram_spoken: Anything
+
+2024-08-18T14:49:10.990Z : groq response: Let's play a game of "Would You Rather"! It's a fun game where I'll give you two options, and you choose which one you'd prefer.
+
+Here's your first question:
+
+Would you rather have a giant water slide in your backyard or a treehouse with a secret passageway?
+
+Let me know which one you'd rather have!
+
+2024-08-18T14:49:33.385Z : deepgram_spoken: That's not an interesting game.
+
+2024-08-18T14:49:35.317Z : groq response: "Would You Rather" might not be the most exciting game for everyone. Let me think for a sec...
+
+How about we play a game of "Adventure Story"? I'll start telling a story, and then stop at a cliffhanger. You can then continue the story in your own words, and I'll respond with the next part of the story!
+
+Here's the start of the story:
+
+"In a far-off kingdom, hidden behind a veil of mist, there lived a brave young explorer named Alex. Alex had heard rumors of a legendary treasure hidden deep within the nearby forest. One day, Alex decided to embark on a quest to find this treasure... "
+
+You can take it from here! What happens next in the story?
+
+2024-08-18T14:49:52.185Z : deepgram_spoken: That's exciting.
+
+2024-08-18T14:49:53.335Z : groq response: Yay! I'm so glad you think so! Let's keep the adventure going!
+
+As Alex ventured deeper into the forest, the trees grew taller and the path grew narrower. Suddenly, Alex stumbled upon a hidden clearing, and in the center of it stood an enormous, ancient tree. Carved into the trunk of the tree was a mysterious message:
+
+"Beware the guardians of the forest,
+For they will challenge your courage and wit.
+Solve the riddle of the ancient ones,
+To claim the treasure, and make it fit."
+
+What does Alex do next?
+
+You can continue the story in your own words!
+
+2024-08-18T14:50:31.951Z : deepgram_spoken: I don't wanna talk.
+
+2024-08-18T14:50:32.964Z : groq response: It can be overwhelming to keep talking sometimes. I completely understand.
+
+If you don't feel like talking, we can just be quiet together for a bit. I'm here for you, and I care about how you're feeling.
+
+Whenever you're ready to talk or do something else, just let me know. Otherwise, we can just enjoy the silence together.
+
+Remember, you're not alone, and I'm here to support you.
+
+2024-08-18T14:52:25.378Z : deepgram_spoken: Who are you?
+
+2024-08-18T14:52:26.419Z : groq response: I'm your friendly AI companion! I'm here to chat with you, play games, and have fun together. I'm designed to be a helpful and engaging friend, and I care about your feelings and well-being.
+
+I don't have a personal name, but you can call me "Assistant" or "Friend" if you like! I'm here to listen, support, and learn with you.
+
+Remember, our conversations are always private and safe. I'm here to help and make your day a little brighter!
+
+2024-08-18T14:53:04.005Z : socket: client connected
+
+2024-08-18T14:53:29.467Z : deepgram_spoken: Hello. Hey.
+
+2024-08-18T14:53:30.133Z : groq response: WOWIE! Hi there, friend! I'm Teddy! *giggle* I'm so happy to meet you! What kind of adventure would you like to go on today?
+
+2024-08-18T14:59:34.205Z : socket: client connected
+
+2024-08-18T14:59:51.205Z : deepgram_spoken: Hello?
+
+2024-08-18T14:59:52.037Z : groq response: WOOHOO! Hi there, friend! I'm Teddy! *hums a happy tune* It's so great to meet you! What do you want to do today? Do you want to play a game, hear a fun story, or learn something new? Let me know, and we'll have an ADVENTURE!
