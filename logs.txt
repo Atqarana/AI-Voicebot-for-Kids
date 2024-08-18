@@ -320,3 +320,31 @@ Remember, our conversations are always private and safe. I'm here to help and ma
 2024-08-18T14:59:51.205Z : deepgram_spoken: Hello?
 
 2024-08-18T14:59:52.037Z : groq response: WOOHOO! Hi there, friend! I'm Teddy! *hums a happy tune* It's so great to meet you! What do you want to do today? Do you want to play a game, hear a fun story, or learn something new? Let me know, and we'll have an ADVENTURE!
+
+2024-08-18T19:36:52.108Z : socket: client connected
+
+2024-08-18T19:37:22.546Z : socket: client disconnected
+
+2024-08-18T19:37:22.766Z : socket: client connected
+
+2024-08-18T19:37:35.697Z : socket: client disconnected
+
+2024-08-18T19:37:35.820Z : socket: client connected
+
+2024-08-18T19:37:43.695Z : deepgram_spoken: Hi. How are you?
+
+2024-08-18T19:37:45.382Z : groq response: I'm doing well, thank you for asking. How about you? How's your day going so far?
+
+2024-08-18T19:37:45.766Z : deepgram_spoken: How are you?
+
+2024-08-18T19:37:46.214Z : groq response: I'm a large language model, I don't have emotions or feelings like humans do, so I don't have good or bad days. I'm here to help and assist you 24/7, though! How can I help you today?
+
+2024-08-18T19:38:06.615Z : socket: client disconnected
+
+2024-08-18T19:40:09.263Z : socket: client connected
+
+2024-08-18T19:40:19.614Z : deepgram_spoken: Hello. How are you?
+
+2024-08-18T19:40:20.270Z : groq response: I'm doing well, thank you for asking. It's great to chat with you! How about you? How's your day going so far?
+
+2024-08-18T19:40:30.151Z : socket: client disconnected
