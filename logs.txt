@@ -348,3 +348,11 @@ Remember, our conversations are always private and safe. I'm here to help and ma
 2024-08-18T19:40:20.270Z : groq response: I'm doing well, thank you for asking. It's great to chat with you! How about you? How's your day going so far?
 
 2024-08-18T19:40:30.151Z : socket: client disconnected
+
+2024-08-18T19:53:53.836Z : socket: client connected
+
+2024-08-18T19:54:13.366Z : deepgram_spoken: Hello. How are you?
+
+2024-08-18T19:54:14.403Z : groq response: Wowie! I'm so happy to see you! I'm feeling fabulous today! He he he, I was just waiting for someone to play with. How about you? What brings a smile to your face today?
+
+2024-08-18T19:54:29.167Z : socket: client disconnected
